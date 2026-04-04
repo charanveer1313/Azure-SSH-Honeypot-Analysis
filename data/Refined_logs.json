@@ -59,7 +59,6 @@
     "session": "7e30471ec49b",
     "protocol": "ssh"
   },
-  },
 
   {
     "eventid": "cowrie.command.input",
