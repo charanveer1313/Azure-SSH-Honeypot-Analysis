@@ -1,10 +1,3 @@
-# Azure-SSH-Honeypot-Analysis
-A cloud-based SSH honeypot deployed on Azure using Docker to analyze automated brute-force attack patterns.
-Architecture: "Ubuntu VM on Azure -> Docker Container -> Cowrie."
-
-Findings: Captured 50,000+ logs,
-identified a Belgian-based botnet targeting 'solana' credentials.
-Tools Used: grep, jq, traceroute, GeoIP.
 # Azure-Based SSH Honeypot Analysis (Cowrie)
 
 A medium-interaction SSH and Telnet honeypot (Cowrie) deployed on Microsoft Azure using Docker. This project is designed to attract, capture, and analyze brute-force attacks and malicious activity in a controlled environment.
