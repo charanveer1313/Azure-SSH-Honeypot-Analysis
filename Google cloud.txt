@@ -1,0 +1,26 @@
+[
+  {
+    "eventid": "cowrie.session.connect",
+    "src_ip": "198.235.24.154",
+    "src_port": 52982,
+    "dst_ip": "172.17.0.2",
+    "dst_port": 2222,
+    "session": "6ed2706be065",
+    "protocol": "ssh",
+    "message": "New connection: 198.235.24.154:52982 (172.17.0.2:2222) [session: 6ed2706be065]",
+    "sensor": "94c0370d4eeb",
+    "uuid": "341292f4-2fe7-11f1-b5c1-52d73ed64fd6",
+    "timestamp": "2026-04-04T10:49:09.431134Z"
+  },
+  {
+    "eventid": "cowrie.session.closed",
+    "duration": "0.3",
+    "message": "Connection lost after 0.3 seconds",
+    "sensor": "94c0370d4eeb",
+    "uuid": "341292f4-2fe7-11f1-b5c1-52d73ed64fd6",
+    "timestamp": "2026-04-04T10:49:09.753520Z",
+    "src_ip": "198.235.24.154",
+    "session": "6ed2706be065",
+    "protocol": "ssh"
+  }
+]
