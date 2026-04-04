@@ -25,7 +25,21 @@ Before deploying, you must configure your **Network Security Group (NSG)**:
 
 ### 3. Deployment
 Clone this repository and launch the honeypot:
+4. Verification
 
+Test the honeypot by attempting to log in from your local machine:
+
+Bash
+ssh -p 2222 root@[YOUR_AZURE_VM_IP]
+Any credentials entered here will be captured in the logs.
+
+5. Analyzing Attack Logs
+
+The honeypot stores all activity in JSON format. To view the captured data in real-time:
+
+Bash
+# Access logs within the container
+docker exec -it cowrie tail -f /home/cowrie/cowrie/var/log/cowrie/cowrie.json
 ```bash
 # Clone the repository
 git clone [https://github.com/](https://github.com/)[YOUR_USERNAME]/Azure-SSH-Honeypot-Analysis.git
