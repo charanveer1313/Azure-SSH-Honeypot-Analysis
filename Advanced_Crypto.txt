@@ -1,0 +1,1050 @@
+[
+  {
+    "eventid": "cowrie.client.kex",
+    "hassh": "eeca2460550b9ded084ecf2f70a75356",
+    "hasshAlgorithms": "mlkem768x25519-sha256,sntrup761x25519-sha512,sntrup761x25519-sha512@openssh.com,curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group-exchange-sha256,diffie-hellman-group16-sha512,diffie-hellman-group18-sha512,diffie-hellman-group14-sha256,ext-info-c,kex-strict-c-v00@openssh.com;chacha20-poly1305@openssh.com,aes128-gcm@openssh.com,aes256-gcm@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr;umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1;none,zlib@openssh.com",
+    "kexAlgs": [
+      "mlkem768x25519-sha256",
+      "sntrup761x25519-sha512",
+      "sntrup761x25519-sha512@openssh.com",
+      "curve25519-sha256",
+      "curve25519-sha256@libssh.org",
+      "ecdh-sha2-nistp256",
+      "ecdh-sha2-nistp384",
+      "ecdh-sha2-nistp521",
+      "diffie-hellman-group-exchange-sha256",
+      "diffie-hellman-group16-sha512",
+      "diffie-hellman-group18-sha512",
+      "diffie-hellman-group14-sha256",
+      "ext-info-c",
+      "kex-strict-c-v00@openssh.com"
+    ],
+    "keyAlgs": [
+      "ssh-ed25519-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp256-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp384-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp521-cert-v01@openssh.com",
+      "sk-ssh-ed25519-cert-v01@openssh.com",
+      "sk-ecdsa-sha2-nistp256-cert-v01@openssh.com",
+      "rsa-sha2-512-cert-v01@openssh.com",
+      "rsa-sha2-256-cert-v01@openssh.com",
+      "ssh-ed25519",
+      "ecdsa-sha2-nistp256",
+      "ecdsa-sha2-nistp384",
+      "ecdsa-sha2-nistp521",
+      "sk-ssh-ed25519@openssh.com",
+      "sk-ecdsa-sha2-nistp256@openssh.com",
+      "rsa-sha2-512",
+      "rsa-sha2-256"
+    ],
+    "encCS": [
+      "chacha20-poly1305@openssh.com",
+      "aes128-gcm@openssh.com",
+      "aes256-gcm@openssh.com",
+      "aes128-ctr",
+      "aes192-ctr",
+      "aes256-ctr"
+    ],
+    "macCS": [
+      "umac-64-etm@openssh.com",
+      "umac-128-etm@openssh.com",
+      "hmac-sha2-256-etm@openssh.com",
+      "hmac-sha2-512-etm@openssh.com",
+      "hmac-sha1-etm@openssh.com",
+      "umac-64@openssh.com",
+      "umac-128@openssh.com",
+      "hmac-sha2-256",
+      "hmac-sha2-512",
+      "hmac-sha1"
+    ],
+    "compCS": [
+      "none",
+      "zlib@openssh.com"
+    ],
+    "langCS": [
+      ""
+    ],
+    "message": "SSH client hassh fingerprint: eeca2460550b9ded084ecf2f70a75356",
+    "sensor": "94c0370d4eeb",
+    "uuid": "341292f4-2fe7-11f1-b5c1-52d73ed64fd6",
+    "timestamp": "2026-04-04T09:49:21.404675Z",
+    "src_ip": "47.15.23.181",
+    "session": "61e4e03bfb0c",
+    "protocol": "ssh"
+  },
+  {
+    "eventid": "cowrie.client.kex",
+    "hassh": "eeca2460550b9ded084ecf2f70a75356",
+    "hasshAlgorithms": "mlkem768x25519-sha256,sntrup761x25519-sha512,sntrup761x25519-sha512@openssh.com,curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group-exchange-sha256,diffie-hellman-group16-sha512,diffie-hellman-group18-sha512,diffie-hellman-group14-sha256,ext-info-c,kex-strict-c-v00@openssh.com;chacha20-poly1305@openssh.com,aes128-gcm@openssh.com,aes256-gcm@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr;umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1;none,zlib@openssh.com",
+    "kexAlgs": [
+      "mlkem768x25519-sha256",
+      "sntrup761x25519-sha512",
+      "sntrup761x25519-sha512@openssh.com",
+      "curve25519-sha256",
+      "curve25519-sha256@libssh.org",
+      "ecdh-sha2-nistp256",
+      "ecdh-sha2-nistp384",
+      "ecdh-sha2-nistp521",
+      "diffie-hellman-group-exchange-sha256",
+      "diffie-hellman-group16-sha512",
+      "diffie-hellman-group18-sha512",
+      "diffie-hellman-group14-sha256",
+      "ext-info-c",
+      "kex-strict-c-v00@openssh.com"
+    ],
+    "keyAlgs": [
+      "ssh-ed25519-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp256-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp384-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp521-cert-v01@openssh.com",
+      "sk-ssh-ed25519-cert-v01@openssh.com",
+      "sk-ecdsa-sha2-nistp256-cert-v01@openssh.com",
+      "rsa-sha2-512-cert-v01@openssh.com",
+      "rsa-sha2-256-cert-v01@openssh.com",
+      "ssh-ed25519",
+      "ecdsa-sha2-nistp256",
+      "ecdsa-sha2-nistp384",
+      "ecdsa-sha2-nistp521",
+      "sk-ssh-ed25519@openssh.com",
+      "sk-ecdsa-sha2-nistp256@openssh.com",
+      "rsa-sha2-512",
+      "rsa-sha2-256"
+    ],
+    "encCS": [
+      "chacha20-poly1305@openssh.com",
+      "aes128-gcm@openssh.com",
+      "aes256-gcm@openssh.com",
+      "aes128-ctr",
+      "aes192-ctr",
+      "aes256-ctr"
+    ],
+    "macCS": [
+      "umac-64-etm@openssh.com",
+      "umac-128-etm@openssh.com",
+      "hmac-sha2-256-etm@openssh.com",
+      "hmac-sha2-512-etm@openssh.com",
+      "hmac-sha1-etm@openssh.com",
+      "umac-64@openssh.com",
+      "umac-128@openssh.com",
+      "hmac-sha2-256",
+      "hmac-sha2-512",
+      "hmac-sha1"
+    ],
+    "compCS": [
+      "none",
+      "zlib@openssh.com"
+    ],
+    "langCS": [
+      ""
+    ],
+    "message": "SSH client hassh fingerprint: eeca2460550b9ded084ecf2f70a75356",
+    "sensor": "94c0370d4eeb",
+    "uuid": "341292f4-2fe7-11f1-b5c1-52d73ed64fd6",
+    "timestamp": "2026-04-04T09:52:51.536510Z",
+    "src_ip": "47.15.23.181",
+    "session": "68787b3f78c8",
+    "protocol": "ssh"
+  },
+  {
+    "eventid": "cowrie.client.kex",
+    "hassh": "eeca2460550b9ded084ecf2f70a75356",
+    "hasshAlgorithms": "mlkem768x25519-sha256,sntrup761x25519-sha512,sntrup761x25519-sha512@openssh.com,curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group-exchange-sha256,diffie-hellman-group16-sha512,diffie-hellman-group18-sha512,diffie-hellman-group14-sha256,ext-info-c,kex-strict-c-v00@openssh.com;chacha20-poly1305@openssh.com,aes128-gcm@openssh.com,aes256-gcm@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr;umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1;none,zlib@openssh.com",
+    "kexAlgs": [
+      "mlkem768x25519-sha256",
+      "sntrup761x25519-sha512",
+      "sntrup761x25519-sha512@openssh.com",
+      "curve25519-sha256",
+      "curve25519-sha256@libssh.org",
+      "ecdh-sha2-nistp256",
+      "ecdh-sha2-nistp384",
+      "ecdh-sha2-nistp521",
+      "diffie-hellman-group-exchange-sha256",
+      "diffie-hellman-group16-sha512",
+      "diffie-hellman-group18-sha512",
+      "diffie-hellman-group14-sha256",
+      "ext-info-c",
+      "kex-strict-c-v00@openssh.com"
+    ],
+    "keyAlgs": [
+      "ssh-ed25519-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp256-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp384-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp521-cert-v01@openssh.com",
+      "sk-ssh-ed25519-cert-v01@openssh.com",
+      "sk-ecdsa-sha2-nistp256-cert-v01@openssh.com",
+      "rsa-sha2-512-cert-v01@openssh.com",
+      "rsa-sha2-256-cert-v01@openssh.com",
+      "ssh-ed25519",
+      "ecdsa-sha2-nistp256",
+      "ecdsa-sha2-nistp384",
+      "ecdsa-sha2-nistp521",
+      "sk-ssh-ed25519@openssh.com",
+      "sk-ecdsa-sha2-nistp256@openssh.com",
+      "rsa-sha2-512",
+      "rsa-sha2-256"
+    ],
+    "encCS": [
+      "chacha20-poly1305@openssh.com",
+      "aes128-gcm@openssh.com",
+      "aes256-gcm@openssh.com",
+      "aes128-ctr",
+      "aes192-ctr",
+      "aes256-ctr"
+    ],
+    "macCS": [
+      "umac-64-etm@openssh.com",
+      "umac-128-etm@openssh.com",
+      "hmac-sha2-256-etm@openssh.com",
+      "hmac-sha2-512-etm@openssh.com",
+      "hmac-sha1-etm@openssh.com",
+      "umac-64@openssh.com",
+      "umac-128@openssh.com",
+      "hmac-sha2-256",
+      "hmac-sha2-512",
+      "hmac-sha1"
+    ],
+    "compCS": [
+      "none",
+      "zlib@openssh.com"
+    ],
+    "langCS": [
+      ""
+    ],
+    "message": "SSH client hassh fingerprint: eeca2460550b9ded084ecf2f70a75356",
+    "sensor": "94c0370d4eeb",
+    "uuid": "341292f4-2fe7-11f1-b5c1-52d73ed64fd6",
+    "timestamp": "2026-04-04T09:53:48.780646Z",
+    "src_ip": "47.15.23.181",
+    "session": "7e30471ec49b",
+    "protocol": "ssh"
+  },
+  {
+    "eventid": "cowrie.client.kex",
+    "hassh": "16443846184eafde36765c9bab2f4397",
+    "hasshAlgorithms": "mlkem768x25519-sha256,curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group14-sha256,diffie-hellman-group14-sha1,ext-info-c,kex-strict-c-v00@openssh.com;aes128-gcm@openssh.com,aes256-gcm@openssh.com,chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr;hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1,hmac-sha1-96;none",
+    "kexAlgs": [
+      "mlkem768x25519-sha256",
+      "curve25519-sha256",
+      "curve25519-sha256@libssh.org",
+      "ecdh-sha2-nistp256",
+      "ecdh-sha2-nistp384",
+      "ecdh-sha2-nistp521",
+      "diffie-hellman-group14-sha256",
+      "diffie-hellman-group14-sha1",
+      "ext-info-c",
+      "kex-strict-c-v00@openssh.com"
+    ],
+    "keyAlgs": [
+      "rsa-sha2-256-cert-v01@openssh.com",
+      "rsa-sha2-512-cert-v01@openssh.com",
+      "ssh-rsa-cert-v01@openssh.com",
+      "ssh-dss-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp256-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp384-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp521-cert-v01@openssh.com",
+      "ssh-ed25519-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp256",
+      "ecdsa-sha2-nistp384",
+      "ecdsa-sha2-nistp521",
+      "rsa-sha2-256",
+      "rsa-sha2-512",
+      "ssh-rsa",
+      "ssh-dss",
+      "ssh-ed25519"
+    ],
+    "encCS": [
+      "aes128-gcm@openssh.com",
+      "aes256-gcm@openssh.com",
+      "chacha20-poly1305@openssh.com",
+      "aes128-ctr",
+      "aes192-ctr",
+      "aes256-ctr"
+    ],
+    "macCS": [
+      "hmac-sha2-256-etm@openssh.com",
+      "hmac-sha2-512-etm@openssh.com",
+      "hmac-sha2-256",
+      "hmac-sha2-512",
+      "hmac-sha1",
+      "hmac-sha1-96"
+    ],
+    "compCS": [
+      "none"
+    ],
+    "langCS": [
+      ""
+    ],
+    "message": "SSH client hassh fingerprint: 16443846184eafde36765c9bab2f4397",
+    "sensor": "94c0370d4eeb",
+    "uuid": "341292f4-2fe7-11f1-b5c1-52d73ed64fd6",
+    "timestamp": "2026-04-04T09:57:32.906785Z",
+    "src_ip": "92.118.39.76",
+    "session": "5f9921615325",
+    "protocol": "ssh"
+  },
+  {
+    "eventid": "cowrie.client.kex",
+    "hassh": "16443846184eafde36765c9bab2f4397",
+    "hasshAlgorithms": "mlkem768x25519-sha256,curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group14-sha256,diffie-hellman-group14-sha1,ext-info-c,kex-strict-c-v00@openssh.com;aes128-gcm@openssh.com,aes256-gcm@openssh.com,chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr;hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1,hmac-sha1-96;none",
+    "kexAlgs": [
+      "mlkem768x25519-sha256",
+      "curve25519-sha256",
+      "curve25519-sha256@libssh.org",
+      "ecdh-sha2-nistp256",
+      "ecdh-sha2-nistp384",
+      "ecdh-sha2-nistp521",
+      "diffie-hellman-group14-sha256",
+      "diffie-hellman-group14-sha1",
+      "ext-info-c",
+      "kex-strict-c-v00@openssh.com"
+    ],
+    "keyAlgs": [
+      "rsa-sha2-256-cert-v01@openssh.com",
+      "rsa-sha2-512-cert-v01@openssh.com",
+      "ssh-rsa-cert-v01@openssh.com",
+      "ssh-dss-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp256-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp384-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp521-cert-v01@openssh.com",
+      "ssh-ed25519-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp256",
+      "ecdsa-sha2-nistp384",
+      "ecdsa-sha2-nistp521",
+      "rsa-sha2-256",
+      "rsa-sha2-512",
+      "ssh-rsa",
+      "ssh-dss",
+      "ssh-ed25519"
+    ],
+    "encCS": [
+      "aes128-gcm@openssh.com",
+      "aes256-gcm@openssh.com",
+      "chacha20-poly1305@openssh.com",
+      "aes128-ctr",
+      "aes192-ctr",
+      "aes256-ctr"
+    ],
+    "macCS": [
+      "hmac-sha2-256-etm@openssh.com",
+      "hmac-sha2-512-etm@openssh.com",
+      "hmac-sha2-256",
+      "hmac-sha2-512",
+      "hmac-sha1",
+      "hmac-sha1-96"
+    ],
+    "compCS": [
+      "none"
+    ],
+    "langCS": [
+      ""
+    ],
+    "message": "SSH client hassh fingerprint: 16443846184eafde36765c9bab2f4397",
+    "sensor": "94c0370d4eeb",
+    "uuid": "341292f4-2fe7-11f1-b5c1-52d73ed64fd6",
+    "timestamp": "2026-04-04T09:59:49.098351Z",
+    "src_ip": "92.118.39.76",
+    "session": "0f5dbda764e5",
+    "protocol": "ssh"
+  },
+  {
+    "eventid": "cowrie.client.kex",
+    "hassh": "16443846184eafde36765c9bab2f4397",
+    "hasshAlgorithms": "mlkem768x25519-sha256,curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group14-sha256,diffie-hellman-group14-sha1,ext-info-c,kex-strict-c-v00@openssh.com;aes128-gcm@openssh.com,aes256-gcm@openssh.com,chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr;hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1,hmac-sha1-96;none",
+    "kexAlgs": [
+      "mlkem768x25519-sha256",
+      "curve25519-sha256",
+      "curve25519-sha256@libssh.org",
+      "ecdh-sha2-nistp256",
+      "ecdh-sha2-nistp384",
+      "ecdh-sha2-nistp521",
+      "diffie-hellman-group14-sha256",
+      "diffie-hellman-group14-sha1",
+      "ext-info-c",
+      "kex-strict-c-v00@openssh.com"
+    ],
+    "keyAlgs": [
+      "rsa-sha2-256-cert-v01@openssh.com",
+      "rsa-sha2-512-cert-v01@openssh.com",
+      "ssh-rsa-cert-v01@openssh.com",
+      "ssh-dss-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp256-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp384-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp521-cert-v01@openssh.com",
+      "ssh-ed25519-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp256",
+      "ecdsa-sha2-nistp384",
+      "ecdsa-sha2-nistp521",
+      "rsa-sha2-256",
+      "rsa-sha2-512",
+      "ssh-rsa",
+      "ssh-dss",
+      "ssh-ed25519"
+    ],
+    "encCS": [
+      "aes128-gcm@openssh.com",
+      "aes256-gcm@openssh.com",
+      "chacha20-poly1305@openssh.com",
+      "aes128-ctr",
+      "aes192-ctr",
+      "aes256-ctr"
+    ],
+    "macCS": [
+      "hmac-sha2-256-etm@openssh.com",
+      "hmac-sha2-512-etm@openssh.com",
+      "hmac-sha2-256",
+      "hmac-sha2-512",
+      "hmac-sha1",
+      "hmac-sha1-96"
+    ],
+    "compCS": [
+      "none"
+    ],
+    "langCS": [
+      ""
+    ],
+    "message": "SSH client hassh fingerprint: 16443846184eafde36765c9bab2f4397",
+    "sensor": "94c0370d4eeb",
+    "uuid": "341292f4-2fe7-11f1-b5c1-52d73ed64fd6",
+    "timestamp": "2026-04-04T10:02:08.485640Z",
+    "src_ip": "92.118.39.76",
+    "session": "20eaa0a7d1ef",
+    "protocol": "ssh"
+  },
+  {
+    "eventid": "cowrie.client.kex",
+    "hassh": "16443846184eafde36765c9bab2f4397",
+    "hasshAlgorithms": "mlkem768x25519-sha256,curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group14-sha256,diffie-hellman-group14-sha1,ext-info-c,kex-strict-c-v00@openssh.com;aes128-gcm@openssh.com,aes256-gcm@openssh.com,chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr;hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1,hmac-sha1-96;none",
+    "kexAlgs": [
+      "mlkem768x25519-sha256",
+      "curve25519-sha256",
+      "curve25519-sha256@libssh.org",
+      "ecdh-sha2-nistp256",
+      "ecdh-sha2-nistp384",
+      "ecdh-sha2-nistp521",
+      "diffie-hellman-group14-sha256",
+      "diffie-hellman-group14-sha1",
+      "ext-info-c",
+      "kex-strict-c-v00@openssh.com"
+    ],
+    "keyAlgs": [
+      "rsa-sha2-256-cert-v01@openssh.com",
+      "rsa-sha2-512-cert-v01@openssh.com",
+      "ssh-rsa-cert-v01@openssh.com",
+      "ssh-dss-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp256-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp384-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp521-cert-v01@openssh.com",
+      "ssh-ed25519-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp256",
+      "ecdsa-sha2-nistp384",
+      "ecdsa-sha2-nistp521",
+      "rsa-sha2-256",
+      "rsa-sha2-512",
+      "ssh-rsa",
+      "ssh-dss",
+      "ssh-ed25519"
+    ],
+    "encCS": [
+      "aes128-gcm@openssh.com",
+      "aes256-gcm@openssh.com",
+      "chacha20-poly1305@openssh.com",
+      "aes128-ctr",
+      "aes192-ctr",
+      "aes256-ctr"
+    ],
+    "macCS": [
+      "hmac-sha2-256-etm@openssh.com",
+      "hmac-sha2-512-etm@openssh.com",
+      "hmac-sha2-256",
+      "hmac-sha2-512",
+      "hmac-sha1",
+      "hmac-sha1-96"
+    ],
+    "compCS": [
+      "none"
+    ],
+    "langCS": [
+      ""
+    ],
+    "message": "SSH client hassh fingerprint: 16443846184eafde36765c9bab2f4397",
+    "sensor": "94c0370d4eeb",
+    "uuid": "341292f4-2fe7-11f1-b5c1-52d73ed64fd6",
+    "timestamp": "2026-04-04T10:04:14.035375Z",
+    "src_ip": "92.118.39.76",
+    "session": "39f757879f79",
+    "protocol": "ssh"
+  },
+  {
+    "eventid": "cowrie.client.kex",
+    "hassh": "16443846184eafde36765c9bab2f4397",
+    "hasshAlgorithms": "mlkem768x25519-sha256,curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group14-sha256,diffie-hellman-group14-sha1,ext-info-c,kex-strict-c-v00@openssh.com;aes128-gcm@openssh.com,aes256-gcm@openssh.com,chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr;hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1,hmac-sha1-96;none",
+    "kexAlgs": [
+      "mlkem768x25519-sha256",
+      "curve25519-sha256",
+      "curve25519-sha256@libssh.org",
+      "ecdh-sha2-nistp256",
+      "ecdh-sha2-nistp384",
+      "ecdh-sha2-nistp521",
+      "diffie-hellman-group14-sha256",
+      "diffie-hellman-group14-sha1",
+      "ext-info-c",
+      "kex-strict-c-v00@openssh.com"
+    ],
+    "keyAlgs": [
+      "rsa-sha2-256-cert-v01@openssh.com",
+      "rsa-sha2-512-cert-v01@openssh.com",
+      "ssh-rsa-cert-v01@openssh.com",
+      "ssh-dss-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp256-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp384-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp521-cert-v01@openssh.com",
+      "ssh-ed25519-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp256",
+      "ecdsa-sha2-nistp384",
+      "ecdsa-sha2-nistp521",
+      "rsa-sha2-256",
+      "rsa-sha2-512",
+      "ssh-rsa",
+      "ssh-dss",
+      "ssh-ed25519"
+    ],
+    "encCS": [
+      "aes128-gcm@openssh.com",
+      "aes256-gcm@openssh.com",
+      "chacha20-poly1305@openssh.com",
+      "aes128-ctr",
+      "aes192-ctr",
+      "aes256-ctr"
+    ],
+    "macCS": [
+      "hmac-sha2-256-etm@openssh.com",
+      "hmac-sha2-512-etm@openssh.com",
+      "hmac-sha2-256",
+      "hmac-sha2-512",
+      "hmac-sha1",
+      "hmac-sha1-96"
+    ],
+    "compCS": [
+      "none"
+    ],
+    "langCS": [
+      ""
+    ],
+    "message": "SSH client hassh fingerprint: 16443846184eafde36765c9bab2f4397",
+    "sensor": "94c0370d4eeb",
+    "uuid": "341292f4-2fe7-11f1-b5c1-52d73ed64fd6",
+    "timestamp": "2026-04-04T10:06:21.484150Z",
+    "src_ip": "92.118.39.76",
+    "session": "039062e0dcb3",
+    "protocol": "ssh"
+  },
+  {
+    "eventid": "cowrie.client.kex",
+    "hassh": "eeca2460550b9ded084ecf2f70a75356",
+    "hasshAlgorithms": "mlkem768x25519-sha256,sntrup761x25519-sha512,sntrup761x25519-sha512@openssh.com,curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group-exchange-sha256,diffie-hellman-group16-sha512,diffie-hellman-group18-sha512,diffie-hellman-group14-sha256,ext-info-c,kex-strict-c-v00@openssh.com;chacha20-poly1305@openssh.com,aes128-gcm@openssh.com,aes256-gcm@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr;umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1;none,zlib@openssh.com",
+    "kexAlgs": [
+      "mlkem768x25519-sha256",
+      "sntrup761x25519-sha512",
+      "sntrup761x25519-sha512@openssh.com",
+      "curve25519-sha256",
+      "curve25519-sha256@libssh.org",
+      "ecdh-sha2-nistp256",
+      "ecdh-sha2-nistp384",
+      "ecdh-sha2-nistp521",
+      "diffie-hellman-group-exchange-sha256",
+      "diffie-hellman-group16-sha512",
+      "diffie-hellman-group18-sha512",
+      "diffie-hellman-group14-sha256",
+      "ext-info-c",
+      "kex-strict-c-v00@openssh.com"
+    ],
+    "keyAlgs": [
+      "ssh-ed25519-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp256-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp384-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp521-cert-v01@openssh.com",
+      "sk-ssh-ed25519-cert-v01@openssh.com",
+      "sk-ecdsa-sha2-nistp256-cert-v01@openssh.com",
+      "rsa-sha2-512-cert-v01@openssh.com",
+      "rsa-sha2-256-cert-v01@openssh.com",
+      "ssh-ed25519",
+      "ecdsa-sha2-nistp256",
+      "ecdsa-sha2-nistp384",
+      "ecdsa-sha2-nistp521",
+      "sk-ssh-ed25519@openssh.com",
+      "sk-ecdsa-sha2-nistp256@openssh.com",
+      "rsa-sha2-512",
+      "rsa-sha2-256"
+    ],
+    "encCS": [
+      "chacha20-poly1305@openssh.com",
+      "aes128-gcm@openssh.com",
+      "aes256-gcm@openssh.com",
+      "aes128-ctr",
+      "aes192-ctr",
+      "aes256-ctr"
+    ],
+    "macCS": [
+      "umac-64-etm@openssh.com",
+      "umac-128-etm@openssh.com",
+      "hmac-sha2-256-etm@openssh.com",
+      "hmac-sha2-512-etm@openssh.com",
+      "hmac-sha1-etm@openssh.com",
+      "umac-64@openssh.com",
+      "umac-128@openssh.com",
+      "hmac-sha2-256",
+      "hmac-sha2-512",
+      "hmac-sha1"
+    ],
+    "compCS": [
+      "none",
+      "zlib@openssh.com"
+    ],
+    "langCS": [
+      ""
+    ],
+    "message": "SSH client hassh fingerprint: eeca2460550b9ded084ecf2f70a75356",
+    "sensor": "94c0370d4eeb",
+    "uuid": "341292f4-2fe7-11f1-b5c1-52d73ed64fd6",
+    "timestamp": "2026-04-04T10:06:59.884549Z",
+    "src_ip": "47.15.23.181",
+    "session": "5d0a717b7856",
+    "protocol": "ssh"
+  },
+  {
+    "eventid": "cowrie.client.kex",
+    "hassh": "eeca2460550b9ded084ecf2f70a75356",
+    "hasshAlgorithms": "mlkem768x25519-sha256,sntrup761x25519-sha512,sntrup761x25519-sha512@openssh.com,curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group-exchange-sha256,diffie-hellman-group16-sha512,diffie-hellman-group18-sha512,diffie-hellman-group14-sha256,ext-info-c,kex-strict-c-v00@openssh.com;chacha20-poly1305@openssh.com,aes128-gcm@openssh.com,aes256-gcm@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr;umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1;none,zlib@openssh.com",
+    "kexAlgs": [
+      "mlkem768x25519-sha256",
+      "sntrup761x25519-sha512",
+      "sntrup761x25519-sha512@openssh.com",
+      "curve25519-sha256",
+      "curve25519-sha256@libssh.org",
+      "ecdh-sha2-nistp256",
+      "ecdh-sha2-nistp384",
+      "ecdh-sha2-nistp521",
+      "diffie-hellman-group-exchange-sha256",
+      "diffie-hellman-group16-sha512",
+      "diffie-hellman-group18-sha512",
+      "diffie-hellman-group14-sha256",
+      "ext-info-c",
+      "kex-strict-c-v00@openssh.com"
+    ],
+    "keyAlgs": [
+      "ssh-ed25519-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp256-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp384-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp521-cert-v01@openssh.com",
+      "sk-ssh-ed25519-cert-v01@openssh.com",
+      "sk-ecdsa-sha2-nistp256-cert-v01@openssh.com",
+      "rsa-sha2-512-cert-v01@openssh.com",
+      "rsa-sha2-256-cert-v01@openssh.com",
+      "ssh-ed25519",
+      "ecdsa-sha2-nistp256",
+      "ecdsa-sha2-nistp384",
+      "ecdsa-sha2-nistp521",
+      "sk-ssh-ed25519@openssh.com",
+      "sk-ecdsa-sha2-nistp256@openssh.com",
+      "rsa-sha2-512",
+      "rsa-sha2-256"
+    ],
+    "encCS": [
+      "chacha20-poly1305@openssh.com",
+      "aes128-gcm@openssh.com",
+      "aes256-gcm@openssh.com",
+      "aes128-ctr",
+      "aes192-ctr",
+      "aes256-ctr"
+    ],
+    "macCS": [
+      "umac-64-etm@openssh.com",
+      "umac-128-etm@openssh.com",
+      "hmac-sha2-256-etm@openssh.com",
+      "hmac-sha2-512-etm@openssh.com",
+      "hmac-sha1-etm@openssh.com",
+      "umac-64@openssh.com",
+      "umac-128@openssh.com",
+      "hmac-sha2-256",
+      "hmac-sha2-512",
+      "hmac-sha1"
+    ],
+    "compCS": [
+      "none",
+      "zlib@openssh.com"
+    ],
+    "langCS": [
+      ""
+    ],
+    "message": "SSH client hassh fingerprint: eeca2460550b9ded084ecf2f70a75356",
+    "sensor": "94c0370d4eeb",
+    "uuid": "341292f4-2fe7-11f1-b5c1-52d73ed64fd6",
+    "timestamp": "2026-04-04T10:07:33.918116Z",
+    "src_ip": "47.15.23.181",
+    "session": "7f20d7cfd7be",
+    "protocol": "ssh"
+  },
+  {
+    "eventid": "cowrie.client.kex",
+    "hassh": "16443846184eafde36765c9bab2f4397",
+    "hasshAlgorithms": "mlkem768x25519-sha256,curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group14-sha256,diffie-hellman-group14-sha1,ext-info-c,kex-strict-c-v00@openssh.com;aes128-gcm@openssh.com,aes256-gcm@openssh.com,chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr;hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1,hmac-sha1-96;none",
+    "kexAlgs": [
+      "mlkem768x25519-sha256",
+      "curve25519-sha256",
+      "curve25519-sha256@libssh.org",
+      "ecdh-sha2-nistp256",
+      "ecdh-sha2-nistp384",
+      "ecdh-sha2-nistp521",
+      "diffie-hellman-group14-sha256",
+      "diffie-hellman-group14-sha1",
+      "ext-info-c",
+      "kex-strict-c-v00@openssh.com"
+    ],
+    "keyAlgs": [
+      "rsa-sha2-256-cert-v01@openssh.com",
+      "rsa-sha2-512-cert-v01@openssh.com",
+      "ssh-rsa-cert-v01@openssh.com",
+      "ssh-dss-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp256-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp384-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp521-cert-v01@openssh.com",
+      "ssh-ed25519-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp256",
+      "ecdsa-sha2-nistp384",
+      "ecdsa-sha2-nistp521",
+      "rsa-sha2-256",
+      "rsa-sha2-512",
+      "ssh-rsa",
+      "ssh-dss",
+      "ssh-ed25519"
+    ],
+    "encCS": [
+      "aes128-gcm@openssh.com",
+      "aes256-gcm@openssh.com",
+      "chacha20-poly1305@openssh.com",
+      "aes128-ctr",
+      "aes192-ctr",
+      "aes256-ctr"
+    ],
+    "macCS": [
+      "hmac-sha2-256-etm@openssh.com",
+      "hmac-sha2-512-etm@openssh.com",
+      "hmac-sha2-256",
+      "hmac-sha2-512",
+      "hmac-sha1",
+      "hmac-sha1-96"
+    ],
+    "compCS": [
+      "none"
+    ],
+    "langCS": [
+      ""
+    ],
+    "message": "SSH client hassh fingerprint: 16443846184eafde36765c9bab2f4397",
+    "sensor": "94c0370d4eeb",
+    "uuid": "341292f4-2fe7-11f1-b5c1-52d73ed64fd6",
+    "timestamp": "2026-04-04T10:08:32.327963Z",
+    "src_ip": "92.118.39.76",
+    "session": "3a4166ac4275",
+    "protocol": "ssh"
+  },
+  {
+    "eventid": "cowrie.client.kex",
+    "hassh": "084386fa7ae5039bcf6f07298a05a227",
+    "hasshAlgorithms": "curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group14-sha1,diffie-hellman-group1-sha1,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group14-sha1,diffie-hellman-group1-sha1;aes128-ctr,aes192-ctr,aes256-ctr,aes128-gcm@openssh.com,arcfour256,arcfour128,aes128-ctr,aes192-ctr,aes256-ctr,aes128-gcm@openssh.com,arcfour256,arcfour128;hmac-sha2-256,hmac-sha1,hmac-sha1-96;none",
+    "kexAlgs": [
+      "curve25519-sha256@libssh.org",
+      "ecdh-sha2-nistp256",
+      "ecdh-sha2-nistp384",
+      "ecdh-sha2-nistp521",
+      "diffie-hellman-group14-sha1",
+      "diffie-hellman-group1-sha1",
+      "curve25519-sha256@libssh.org",
+      "ecdh-sha2-nistp256",
+      "ecdh-sha2-nistp384",
+      "ecdh-sha2-nistp521",
+      "diffie-hellman-group14-sha1",
+      "diffie-hellman-group1-sha1"
+    ],
+    "keyAlgs": [
+      "ssh-rsa-cert-v01@openssh.com",
+      "ssh-dss-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp256-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp384-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp521-cert-v01@openssh.com",
+      "ssh-ed25519-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp256",
+      "ecdsa-sha2-nistp384",
+      "ecdsa-sha2-nistp521",
+      "ssh-rsa",
+      "ssh-dss",
+      "ssh-ed25519",
+      "ssh-rsa-cert-v01@openssh.com",
+      "ssh-dss-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp256-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp384-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp521-cert-v01@openssh.com",
+      "ssh-ed25519-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp256",
+      "ecdsa-sha2-nistp384",
+      "ecdsa-sha2-nistp521",
+      "ssh-rsa",
+      "ssh-dss",
+      "ssh-ed25519"
+    ],
+    "encCS": [
+      "aes128-ctr",
+      "aes192-ctr",
+      "aes256-ctr",
+      "aes128-gcm@openssh.com",
+      "arcfour256",
+      "arcfour128",
+      "aes128-ctr",
+      "aes192-ctr",
+      "aes256-ctr",
+      "aes128-gcm@openssh.com",
+      "arcfour256",
+      "arcfour128"
+    ],
+    "macCS": [
+      "hmac-sha2-256",
+      "hmac-sha1",
+      "hmac-sha1-96"
+    ],
+    "compCS": [
+      "none"
+    ],
+    "langCS": [
+      ""
+    ],
+    "message": "SSH client hassh fingerprint: 084386fa7ae5039bcf6f07298a05a227",
+    "sensor": "94c0370d4eeb",
+    "uuid": "341292f4-2fe7-11f1-b5c1-52d73ed64fd6",
+    "timestamp": "2026-04-04T10:08:39.568176Z",
+    "src_ip": "103.13.206.197",
+    "session": "195e8d95df03",
+    "protocol": "ssh"
+  },
+  {
+    "eventid": "cowrie.client.kex",
+    "hassh": "eeca2460550b9ded084ecf2f70a75356",
+    "hasshAlgorithms": "mlkem768x25519-sha256,sntrup761x25519-sha512,sntrup761x25519-sha512@openssh.com,curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group-exchange-sha256,diffie-hellman-group16-sha512,diffie-hellman-group18-sha512,diffie-hellman-group14-sha256,ext-info-c,kex-strict-c-v00@openssh.com;chacha20-poly1305@openssh.com,aes128-gcm@openssh.com,aes256-gcm@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr;umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1;none,zlib@openssh.com",
+    "kexAlgs": [
+      "mlkem768x25519-sha256",
+      "sntrup761x25519-sha512",
+      "sntrup761x25519-sha512@openssh.com",
+      "curve25519-sha256",
+      "curve25519-sha256@libssh.org",
+      "ecdh-sha2-nistp256",
+      "ecdh-sha2-nistp384",
+      "ecdh-sha2-nistp521",
+      "diffie-hellman-group-exchange-sha256",
+      "diffie-hellman-group16-sha512",
+      "diffie-hellman-group18-sha512",
+      "diffie-hellman-group14-sha256",
+      "ext-info-c",
+      "kex-strict-c-v00@openssh.com"
+    ],
+    "keyAlgs": [
+      "ssh-ed25519-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp256-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp384-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp521-cert-v01@openssh.com",
+      "sk-ssh-ed25519-cert-v01@openssh.com",
+      "sk-ecdsa-sha2-nistp256-cert-v01@openssh.com",
+      "rsa-sha2-512-cert-v01@openssh.com",
+      "rsa-sha2-256-cert-v01@openssh.com",
+      "ssh-ed25519",
+      "ecdsa-sha2-nistp256",
+      "ecdsa-sha2-nistp384",
+      "ecdsa-sha2-nistp521",
+      "sk-ssh-ed25519@openssh.com",
+      "sk-ecdsa-sha2-nistp256@openssh.com",
+      "rsa-sha2-512",
+      "rsa-sha2-256"
+    ],
+    "encCS": [
+      "chacha20-poly1305@openssh.com",
+      "aes128-gcm@openssh.com",
+      "aes256-gcm@openssh.com",
+      "aes128-ctr",
+      "aes192-ctr",
+      "aes256-ctr"
+    ],
+    "macCS": [
+      "umac-64-etm@openssh.com",
+      "umac-128-etm@openssh.com",
+      "hmac-sha2-256-etm@openssh.com",
+      "hmac-sha2-512-etm@openssh.com",
+      "hmac-sha1-etm@openssh.com",
+      "umac-64@openssh.com",
+      "umac-128@openssh.com",
+      "hmac-sha2-256",
+      "hmac-sha2-512",
+      "hmac-sha1"
+    ],
+    "compCS": [
+      "none",
+      "zlib@openssh.com"
+    ],
+    "langCS": [
+      ""
+    ],
+    "message": "SSH client hassh fingerprint: eeca2460550b9ded084ecf2f70a75356",
+    "sensor": "94c0370d4eeb",
+    "uuid": "341292f4-2fe7-11f1-b5c1-52d73ed64fd6",
+    "timestamp": "2026-04-04T10:11:38.444535Z",
+    "src_ip": "47.15.23.181",
+    "session": "6b342402a1a4",
+    "protocol": "ssh"
+  },
+  {
+    "eventid": "cowrie.client.kex",
+    "hassh": "eeca2460550b9ded084ecf2f70a75356",
+    "hasshAlgorithms": "mlkem768x25519-sha256,sntrup761x25519-sha512,sntrup761x25519-sha512@openssh.com,curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group-exchange-sha256,diffie-hellman-group16-sha512,diffie-hellman-group18-sha512,diffie-hellman-group14-sha256,ext-info-c,kex-strict-c-v00@openssh.com;chacha20-poly1305@openssh.com,aes128-gcm@openssh.com,aes256-gcm@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr;umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1;none,zlib@openssh.com",
+    "kexAlgs": [
+      "mlkem768x25519-sha256",
+      "sntrup761x25519-sha512",
+      "sntrup761x25519-sha512@openssh.com",
+      "curve25519-sha256",
+      "curve25519-sha256@libssh.org",
+      "ecdh-sha2-nistp256",
+      "ecdh-sha2-nistp384",
+      "ecdh-sha2-nistp521",
+      "diffie-hellman-group-exchange-sha256",
+      "diffie-hellman-group16-sha512",
+      "diffie-hellman-group18-sha512",
+      "diffie-hellman-group14-sha256",
+      "ext-info-c",
+      "kex-strict-c-v00@openssh.com"
+    ],
+    "keyAlgs": [
+      "ssh-ed25519-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp256-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp384-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp521-cert-v01@openssh.com",
+      "sk-ssh-ed25519-cert-v01@openssh.com",
+      "sk-ecdsa-sha2-nistp256-cert-v01@openssh.com",
+      "rsa-sha2-512-cert-v01@openssh.com",
+      "rsa-sha2-256-cert-v01@openssh.com",
+      "ssh-ed25519",
+      "ecdsa-sha2-nistp256",
+      "ecdsa-sha2-nistp384",
+      "ecdsa-sha2-nistp521",
+      "sk-ssh-ed25519@openssh.com",
+      "sk-ecdsa-sha2-nistp256@openssh.com",
+      "rsa-sha2-512",
+      "rsa-sha2-256"
+    ],
+    "encCS": [
+      "chacha20-poly1305@openssh.com",
+      "aes128-gcm@openssh.com",
+      "aes256-gcm@openssh.com",
+      "aes128-ctr",
+      "aes192-ctr",
+      "aes256-ctr"
+    ],
+    "macCS": [
+      "umac-64-etm@openssh.com",
+      "umac-128-etm@openssh.com",
+      "hmac-sha2-256-etm@openssh.com",
+      "hmac-sha2-512-etm@openssh.com",
+      "hmac-sha1-etm@openssh.com",
+      "umac-64@openssh.com",
+      "umac-128@openssh.com",
+      "hmac-sha2-256",
+      "hmac-sha2-512",
+      "hmac-sha1"
+    ],
+    "compCS": [
+      "none",
+      "zlib@openssh.com"
+    ],
+    "langCS": [
+      ""
+    ],
+    "message": "SSH client hassh fingerprint: eeca2460550b9ded084ecf2f70a75356",
+    "sensor": "94c0370d4eeb",
+    "uuid": "341292f4-2fe7-11f1-b5c1-52d73ed64fd6",
+    "timestamp": "2026-04-04T10:12:04.079675Z",
+    "src_ip": "47.15.23.181",
+    "session": "827b3e654dc7",
+    "protocol": "ssh"
+  },
+  {
+    "eventid": "cowrie.client.kex",
+    "hassh": "19532158b559096b89b1a5f7d17175b2",
+    "hasshAlgorithms": "curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group-exchange-sha256,diffie-hellman-group16-sha512,diffie-hellman-group18-sha512,diffie-hellman-group14-sha256,diffie-hellman-group14-sha1,diffie-hellman-group1-sha1,diffie-hellman-group-exchange-sha1,ext-info-c,kex-strict-c-v00@openssh.com;chacha20-poly1305@openssh.com,aes256-gcm@openssh.com,aes128-gcm@openssh.com,aes256-ctr,aes192-ctr,aes128-ctr,aes256-cbc,rijndael-cbc@lysator.liu.se,aes192-cbc,aes128-cbc,arcfour128,arcfour,3des-cbc;hmac-sha2-256,hmac-sha2-256-etm@openssh.com,hmac-sha2-512,hmac-sha2-512-etm@openssh.com,hmac-sha1,hmac-sha1-etm@openssh.com,hmac-sha1-96,hmac-md5,hmac-md5-96;none",
+    "kexAlgs": [
+      "curve25519-sha256",
+      "curve25519-sha256@libssh.org",
+      "ecdh-sha2-nistp256",
+      "ecdh-sha2-nistp384",
+      "ecdh-sha2-nistp521",
+      "diffie-hellman-group-exchange-sha256",
+      "diffie-hellman-group16-sha512",
+      "diffie-hellman-group18-sha512",
+      "diffie-hellman-group14-sha256",
+      "diffie-hellman-group14-sha1",
+      "diffie-hellman-group1-sha1",
+      "diffie-hellman-group-exchange-sha1",
+      "ext-info-c",
+      "kex-strict-c-v00@openssh.com"
+    ],
+    "keyAlgs": [
+      "ecdsa-sha2-nistp256",
+      "ecdsa-sha2-nistp384",
+      "ecdsa-sha2-nistp521",
+      "ecdsa-sha2-nistp256-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp384-cert-v01@openssh.com",
+      "ecdsa-sha2-nistp521-cert-v01@openssh.com",
+      "ssh-ed25519",
+      "ssh-ed25519-cert-v01@openssh.com",
+      "rsa-sha2-512",
+      "rsa-sha2-256",
+      "rsa-sha2-512-cert-v01@openssh.com",
+      "rsa-sha2-256-cert-v01@openssh.com",
+      "ssh-rsa",
+      "ssh-rsa-cert-v01@openssh.com"
+    ],
+    "encCS": [
+      "chacha20-poly1305@openssh.com",
+      "aes256-gcm@openssh.com",
+      "aes128-gcm@openssh.com",
+      "aes256-ctr",
+      "aes192-ctr",
+      "aes128-ctr",
+      "aes256-cbc",
+      "rijndael-cbc@lysator.liu.se",
+      "aes192-cbc",
+      "aes128-cbc",
+      "arcfour128",
+      "arcfour",
+      "3des-cbc"
+    ],
+    "macCS": [
+      "hmac-sha2-256",
+      "hmac-sha2-256-etm@openssh.com",
+      "hmac-sha2-512",
+      "hmac-sha2-512-etm@openssh.com",
+      "hmac-sha1",
+      "hmac-sha1-etm@openssh.com",
+      "hmac-sha1-96",
+      "hmac-md5",
+      "hmac-md5-96"
+    ],
+    "compCS": [
+      "none"
+    ],
+    "langCS": [
+      ""
+    ],
+    "message": "SSH client hassh fingerprint: 19532158b559096b89b1a5f7d17175b2",
+    "sensor": "94c0370d4eeb",
+    "uuid": "341292f4-2fe7-11f1-b5c1-52d73ed64fd6",
+    "timestamp": "2026-04-04T10:27:25.219996Z",
+    "src_ip": "94.35.140.5",
+    "session": "19eb75f7eae5",
+    "protocol": "ssh"
+  }
+]
