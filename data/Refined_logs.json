@@ -11,8 +11,7 @@
     "sensor": "94c0370d4eeb",
     "uuid": "341292f4-2fe7-11f1-b5c1-52d73ed64fd6",
     "timestamp": "2026-04-04T09:49:21.320111Z"
-  },
- 
+  }, 
   {
     "eventid": "cowrie.login.success",
     "username": "root",
